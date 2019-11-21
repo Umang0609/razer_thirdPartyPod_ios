@@ -64,6 +64,8 @@ class WebViewController: UIViewController,WKNavigationDelegate, WKUIDelegate,WKS
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        print("Opening WebView")
         setupNavigationBar()
         
         

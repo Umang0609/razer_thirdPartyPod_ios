@@ -114,7 +114,43 @@ public class RzLoginView {
                     let dict = data as! NSDictionary
                     print(dict)
                     
-                    if let val = dict["error_description"] {
+                    
+                    let webViewController = WebViewController.initializeViewController(clientidweb: clientID, clientsecretweb: clientSecret, scopeweb: scope, dismissCompletion: dismissCompletion)
+                                  
+                                  webViewController.goBackSelectorBlock = { () -> Void in
+                                      print("come to suucceess Block")
+                                          dismissCompletion()
+                                      
+                                      
+                                          UIApplication.shared.keyWindow?.rootViewController?.dismiss(animated: true, completion: {
+                                              print("access::%@",UserDefaults.standard.value(forKey: "token") as? String as Any)
+                                              
+                                              if(UserDefaults.standard.value(forKey: "token") as? String == nil || UserDefaults.standard.value(forKey: "token") as? String == "")
+                                              {
+                                                  
+                                              }
+                                              else
+                                              {
+                                                  success(UserDefaults.standard.value(forKey: "token") as? String)
+                                              }
+
+                                              
+                                          })
+                                      
+                                      
+                                  }
+                                  let navigationController = UINavigationController(rootViewController: webViewController)
+                                  navigationController.navigationBar.barTintColor = UIColor.black
+                                  navigationController.view.backgroundColor = UIColor.black
+                                  navigationController.modalPresentationStyle  = .overCurrentContext
+                                  self.presentVC(viewController: navigationController, animated: true) {
+                                      //showCompletion()
+                                  }
+                    
+                    
+                    
+                    
+                  /*  if let val = dict["error_description"] {
                          print("error in returing the client info")
                         
                     }
@@ -179,7 +215,7 @@ public class RzLoginView {
 
                     }
                     
-                
+                */
                     
                 }
                 

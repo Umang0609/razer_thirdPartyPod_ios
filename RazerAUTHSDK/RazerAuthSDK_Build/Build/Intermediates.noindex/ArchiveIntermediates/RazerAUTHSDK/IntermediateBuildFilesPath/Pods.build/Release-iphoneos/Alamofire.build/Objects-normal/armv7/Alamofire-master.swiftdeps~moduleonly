@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "2c87c53789b7e6ea255bc9f370af992b"
+build_time: [1574321119, 714927000]
+inputs:
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/AFError.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/Alamofire.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/MultipartFormData.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/Notifications.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/ParameterEncoding.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/Request.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/Response.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/ResponseSerialization.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/Result.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/ServerTrustPolicy.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/SessionDelegate.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/SessionManager.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/TaskDelegate.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/Timeline.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/Validation.swift": [9223372036, 854775807]

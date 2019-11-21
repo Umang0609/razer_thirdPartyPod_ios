@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/RazerAuthSDK_Build/Build/Intermediates.noindex/ArchiveIntermediates/RazerAUTHSDK/BuildProductsPath/Release-iphoneos/RazerAUTHSDK.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/RazerAuthSDK_Build/Build/Intermediates.noindex/ArchiveIntermediates/RazerAUTHSDK/IntermediateBuildFilesPath/RazerAUTHSDK.build/Release-iphoneos/RazerAUTHSDK.build/unextended-module.modulemap',
+    }]
+  }]
+}

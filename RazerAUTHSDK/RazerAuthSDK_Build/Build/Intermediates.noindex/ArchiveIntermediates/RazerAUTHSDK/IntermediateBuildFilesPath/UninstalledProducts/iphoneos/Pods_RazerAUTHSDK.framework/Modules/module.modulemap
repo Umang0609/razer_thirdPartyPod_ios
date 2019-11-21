@@ -1,0 +1,6 @@
+framework module Pods_RazerAUTHSDK {
+  umbrella header "Pods-RazerAUTHSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

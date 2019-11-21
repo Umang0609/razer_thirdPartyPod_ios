@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>21CFDA14-F646-4B0A-ABA0-617E6022BE13</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>21CFDA14-F646-4B0A-ABA0-617E6022BE13.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RazerAUTHSDK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RazerAUTHSDK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Building workspace RazerAUTHSDK with scheme RazerAUTHSDK and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>596013889.51301503</real>
+			<key>timeStoppedRecording</key>
+			<real>596013919.58275402</real>
+			<key>title</key>
+			<string>Building workspace RazerAUTHSDK with scheme RazerAUTHSDK and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>21CFDA14-F646-4B0A-ABA0-617E6022BE13</string>
+		</dict>
+		<key>EB8E62D2-3B5C-4CEF-AAD6-FFEC7BE7A3CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB8E62D2-3B5C-4CEF-AAD6-FFEC7BE7A3CE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RazerAUTHSDK project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RazerAUTHSDK</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Cleaning workspace RazerAUTHSDK with scheme RazerAUTHSDK and configuration Release</string>
+			<key>timeStartedRecording</key>
+			<real>596013938.379758</real>
+			<key>timeStoppedRecording</key>
+			<real>596013938.59777796</real>
+			<key>title</key>
+			<string>Cleaning workspace RazerAUTHSDK with scheme RazerAUTHSDK and configuration Release</string>
+			<key>uniqueIdentifier</key>
+			<string>EB8E62D2-3B5C-4CEF-AAD6-FFEC7BE7A3CE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

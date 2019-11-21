@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "76b07ffd0701e6d7f13af5c175779f5e"
+build_time: [1574321113, 374043000]
+inputs:
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/RazerAUTHSDK/RzLoginView.swift": [9223372036, 854775807]
+  "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/RazerAUTHSDK/WebViewController.swift": [9223372036, 854775807]

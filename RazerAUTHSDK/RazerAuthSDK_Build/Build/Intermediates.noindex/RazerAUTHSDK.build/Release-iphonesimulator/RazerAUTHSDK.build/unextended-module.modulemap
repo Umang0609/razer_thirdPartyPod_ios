@@ -1,0 +1,10 @@
+framework module RazerAUTHSDK {
+  umbrella header "RazerAUTHSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module RazerAUTHSDK.__Swift {
+    exclude header "RazerAUTHSDK-Swift.h"
+}
