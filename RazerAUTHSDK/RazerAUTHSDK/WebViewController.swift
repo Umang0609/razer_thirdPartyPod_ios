@@ -110,7 +110,9 @@ class WebViewController: UIViewController,WKNavigationDelegate, WKUIDelegate,WKS
         
       //https://oauth2.razer.com/authorize_openid?response_type=token&client_id=3ba618d12195ea83ab04befce940cb4d5157b0bd&state=123901238&redirect_uri=https://www.razer.com&scope=openid
         
-       let requesturl = URL(string: "https://oauth2.razer.com/authorize_openid?response_type=id_token%20token&scope=\(clientScope!)&client_id=\(clientID!)&state=-2168130525475746934&redirect_uri=https://us-central1-wasder-dev.cloudfunctions.net/authRazerPassport/callback&nonce=1539575869557&client_secret=\(clientSecret!)")
+       let requesturl = URL(string: "https://oauth2.razer.com/authorize_openid?response_type=id_token%20token&scope=\(clientScope!)&client_id=\(clientID!)&state=-2168130525475746934&redirect_uri=https://razerid.razer.com&nonce=1539575869557&client_secret=\(clientSecret!)")
+        
+        print(requesturl)
         
         var request = URLRequest(url: requesturl!)
         request.httpShouldHandleCookies = true

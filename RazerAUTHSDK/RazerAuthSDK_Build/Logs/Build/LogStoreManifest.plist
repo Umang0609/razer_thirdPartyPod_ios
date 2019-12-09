@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>21CFDA14-F646-4B0A-ABA0-617E6022BE13</key>
+		<key>0D7AD6D7-D208-464A-B6EB-28049F038C68</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>21CFDA14-F646-4B0A-ABA0-617E6022BE13.xcactivitylog</string>
+			<string>0D7AD6D7-D208-464A-B6EB-28049F038C68.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Building workspace RazerAUTHSDK with scheme RazerAUTHSDK and configuration Release</string>
 			<key>timeStartedRecording</key>
-			<real>596013889.51301503</real>
+			<real>597571536.77987504</real>
 			<key>timeStoppedRecording</key>
-			<real>596013919.58275402</real>
+			<real>597571568.287341</real>
 			<key>title</key>
 			<string>Building workspace RazerAUTHSDK with scheme RazerAUTHSDK and configuration Release</string>
 			<key>uniqueIdentifier</key>
-			<string>21CFDA14-F646-4B0A-ABA0-617E6022BE13</string>
+			<string>0D7AD6D7-D208-464A-B6EB-28049F038C68</string>
 		</dict>
-		<key>EB8E62D2-3B5C-4CEF-AAD6-FFEC7BE7A3CE</key>
+		<key>92854368-6930-4888-9DAD-86DA32BFC6EC</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>EB8E62D2-3B5C-4CEF-AAD6-FFEC7BE7A3CE.xcactivitylog</string>
+			<string>92854368-6930-4888-9DAD-86DA32BFC6EC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,13 +66,13 @@
 			<key>signature</key>
 			<string>Cleaning workspace RazerAUTHSDK with scheme RazerAUTHSDK and configuration Release</string>
 			<key>timeStartedRecording</key>
-			<real>596013938.379758</real>
+			<real>597571589.520908</real>
 			<key>timeStoppedRecording</key>
-			<real>596013938.59777796</real>
+			<real>597571589.93175101</real>
 			<key>title</key>
 			<string>Cleaning workspace RazerAUTHSDK with scheme RazerAUTHSDK and configuration Release</string>
 			<key>uniqueIdentifier</key>
-			<string>EB8E62D2-3B5C-4CEF-AAD6-FFEC7BE7A3CE</string>
+			<string>92854368-6930-4888-9DAD-86DA32BFC6EC</string>
 		</dict>
 	</dict>
 </dict>

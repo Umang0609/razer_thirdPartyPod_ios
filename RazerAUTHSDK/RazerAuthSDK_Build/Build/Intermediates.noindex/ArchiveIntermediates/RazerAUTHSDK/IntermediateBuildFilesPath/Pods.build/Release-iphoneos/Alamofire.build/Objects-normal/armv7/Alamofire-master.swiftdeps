@@ -1,6 +1,6 @@
-version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
-options: "2c87c53789b7e6ea255bc9f370af992b"
-build_time: [1574321119, 714927000]
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "c81b1b440b959c1ecf74e00935e86bde"
+build_time: [1575878768, 421118000]
 inputs:
   "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/AFError.swift": [9223372036, 854775807]
   "/Users/umang.davessar/Documents/GitHub/razer_thirdPartyPod_ios/RazerAUTHSDK/Pods/Alamofire/Source/Alamofire.swift": [9223372036, 854775807]
